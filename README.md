@@ -49,15 +49,32 @@ Paste the assignment information provided by the AI into the first three columns
 ![image](https://github.com/user-attachments/assets/7cdefa57-d289-47dc-a30d-15c8bc1ae2e6)
 
 
-**8. Save the Excel File**
+**8. Save the .xlsx File**
 
 Save the .xlsx file without changing its name.
+
+While we are here shift click on the Excel folder and "copy as path"
 
 **9. Return to the IDE**
 
 In your Java IDE:
 
 Locate and open the ExcelToICal.java file found at EzCalendar/src/ExcelToICal.java.
+
+and
+
+Go to line:11 and paste the Excel folder path like this 
+
+Before:
+
+![image](https://github.com/user-attachments/assets/fde9eb29-a28c-4b78-95a2-ca34f51a2aec)
+
+
+After:
+
+![image](https://github.com/user-attachments/assets/d6fd2395-6a3b-464f-920b-a2bde2f79482)
+
+
 
 **10. Rebuild the Project**
 
