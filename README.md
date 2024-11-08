@@ -1,12 +1,17 @@
+# Prerequsites
+
+**Excel**
+
+**Java IDE**
+
+Rec: intellij idea community edition
+ 
+ https://www.jetbrains.com/idea/download
+
 # EzCalendar Setup Instructions
 Hello
 	-Ez
-
-#**Prerequsites** 
-
-Excel
-
-Java IDE
+ 
 
 **1. Download the Source Code**
 
