@@ -17,6 +17,9 @@ Hello
 
 Download the project from here as a .zip.
 
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/44b87495-084d-47e3-9ee8-253bf94df59e">
+
+
 **2. Prepare Assignment Information**
 
 Ask a AI chatbot with the document uploaded 
