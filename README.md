@@ -13,9 +13,9 @@ Hello
 	-Ez
  
 
-**1. Download the Source Code**
+**1. Download this project**
 
-Download the source code from here.
+Download the project from here as a .zip.
 
 **2. Prepare Assignment Information**
 
